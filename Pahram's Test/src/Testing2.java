@@ -1,7 +1,9 @@
-/*instructions: ASk the user which car manufacturer they like best between lambos and ferraris. Then, provide the user with a sample  
- * list of models to choose from. Ask them whether they like  to customize the cars or not. Based on the company they choose, tell them what kind of a 
+/*instructions: ASk the user which car manufacturer they like best between
+ * lamborghinis and ferraris. Then, provide the user with a sample  
+ * list of models to choose from. Ask them whether they like  to customize the 
+ * cars or not. Based on the company they choose, tell them what kind of a 
  * person they are*/
-
+//****Project under work****Not complete******
 import java.util.Scanner;
 public class Testing2 {
 

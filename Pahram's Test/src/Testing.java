@@ -12,11 +12,11 @@ public class Testing {
 		
 			if (money <= moneyy) {
 			
-				System.out.print("Make money, bitch!");
+				System.out.print("Make money, NOW!");
 			}
 			 
 			if (money > moneyy) {
-				System.out.print("You still have to make more money!");
+				System.out.print("It doesn't matter, you STILL have to make more money!");
 			}
 			
 			scan.close();
